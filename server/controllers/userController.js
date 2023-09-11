@@ -1,7 +1,12 @@
 const router = require('express').Router();
-let userSchemaRoute = require('../models/users.model.js');
+const userSchemaRoute = require('../models/users.model.js');
+const bcrypt = require('bcrypt');
 
-// Defines our starting point 
+
+const createNewUser = async (req, res) => {
+    
+}
+    // Defines our starting point 
 router.route('/').get((req,res) => {
     userSchemaRoute.find().then(userdata => res.json(userdata))
     .catch(err =>   res.status(400).json('Error in retrieving data. Error code: ' + err))
