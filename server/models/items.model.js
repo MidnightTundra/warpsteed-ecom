@@ -1,15 +1,15 @@
-import { ObjectId } from 'mongoose';
+const {ObjectId} = require('mongodb'); 
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;
 
-//Schema for User Data
+//Schema for Item Data
 const itemSchema = new Schema({
-    _id: new mongoose.type.ObjectId(),
     title : {type: String, required : true},
     price : {type: Number, required: true},
-    pic : [{type: String, required: true}],
-  
+    images : [{type: String, required: true}],
+    category : {type: String, required: true},
+    subcategory : {type: String, required: true},
     created: {
         type: Date,
         default: Date.now

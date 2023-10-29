@@ -11,9 +11,9 @@ module.exports.Login = async (req, res, next) => {
       }
       const user = await User.findOne({ email });
       if(!user){
-        return res.json({message:'Incorrect password or email' }) 
+        return res.json({message:"There isn't an email associated with this account." }) 
       }
-      const auth = await bcrypt.compare(password,user.password)
+      const auth = await bcrypt.compare(password, user.password)
       if (!auth) {
         return res.json({message:'Incorrect password or email' }) 
       }

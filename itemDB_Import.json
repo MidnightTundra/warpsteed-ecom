@@ -1,0 +1,91 @@
+[
+    {
+        "title": "",
+        "condition": "",
+        "quantity": 0,
+        "price": 429.99,
+        "images": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "category": "",
+        "subcategory": "",
+        "desc": ""
+    },
+    {
+        "title": "Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W",
+        "condition": "new",
+        "quantity": 14,
+        "price": 429.99,
+        "images": [
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-118-339-06.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-118-339-08.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-118-339-07.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-118-339-05.jpg"
+        ],
+        "category": "Hardware",
+        "subcategory": "CPU",
+        "desc": "With the highest clock speeds and a groundbreaking new architecture, you’ll be able to push your gameplay to new heights while secondary apps run seamlessly in the background."
+    },
+    {
+        "title": "AMD Ryzen 9 7900X - 12-Core 4.7 GHz - Socket AM5 - 170W Desktop Processor",
+        "condition": "new",
+        "quantity": 17,
+        "price": 409.99,
+        "images": [
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-113-769-02.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/19-113-769-03.jpg"
+        ],
+        "category": "Hardware",
+        "subcategory": "CPU",
+        "desc": "The latest technologies from AMD AMD Ryzen™ 9 7900X processor is built to help you beat the clock with time-saving connectivity like PCIe® 5.0, 24 processing threads, and dedicated video accelerators."
+    },
+    {
+        "title": "Apple - HomePod mini - Orange (MJ2D3LL/A)",
+        "condition": "new",
+        "quantity": 3,
+        "price": 99.99,
+        "images": [
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/BAU4S220708130NM0BD.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/A468D2310100107KKBF.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/ABMTD22083100AUZR5F.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/ABMTD2204291A28BC19.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/A468D2310100107LQ96.jpg"
+        ],
+        "category": "Smart Home",
+        "subcategory": "Speakers",
+        "desc": "Jam-packed with innovation, HomePod mini delivers unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost no space but fills the entire room with rich 360‑degree audio that sounds amazing from every angle. Add more than one HomePod mini for truly expansive sound."
+    },
+    {
+        "title": "Hikvision DS-2CD2783G2-IZS 8MP AcuSense Motorized Varifocal Dome Network Camera Smart Home Security",
+        "condition": "new",
+        "quantity": 7,
+        "price": 289.99,
+        "images": [
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/BGD7S23101605SJ8RDA.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/BGD7S23101605SVVSF0.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/BGD7S23101605T0DY52.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/BGD7S23101605SSK437.jpg"
+        ],
+        "category": "Smart Home",
+        "subcategory": "Surveillance",
+        "desc": "The Hikvision DS-2CD2783G2-IZS is an 8MP outdoor IR dome IP camera with a 2.8-12mm motorized varifocal lens. It has a 1/2.8' progressive scan CMOS sensor that can capture 3840 x 2160 resolution video at 20 fps. The camera also has IR LEDs that provide up to 131' of night vision."
+    },
+    {
+        "title": "SYNIOT Security Smart Lock Deadbolt, Fingerprint Scanner, Keyless Entry Door Lock with Fingerprint or Password or IC card, App Unlock and Control, Touchscreen Keypad",
+        "condition": "new",
+        "quantity": 10,
+        "price": 169.99,
+        "images": [
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/B421S2208010D48P5AC.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/B421S220309ajRLp.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/B421S2203098S4C0.jpg",
+            "https://c1.neweggimages.com/ProductImageCompressAll1280/B421S220309xSSrG.jpg"
+        ],
+        "category": "Smart Home",
+        "subcategory": "Security",
+        "desc": "Syniot smart lock SISL-G012 is a tilted-structure design with an appearance patent. The lock adopts Bluetooth (Syniot) as the main control, supports low power consumption Bluetooth(BLE 4.0 ), manages the lock(fingerprint, passcode. IC card, e-key, Screen touch keyboard), and access through App. It supports firmware updates, and software functions can be expanded through a firmware update. The lock is suitable for and widely used in commercial offices, residential, government departments, the army, banks, hospitals, etc. Remote control can be realized by coordinating with TTlock gateway."
+    }
+]
